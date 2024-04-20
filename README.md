@@ -106,36 +106,71 @@ Visit the **[GitHub Releases](https://github.com/Bin-Huang/chatbox/releases)** t
 </tr>
 </table> -->
 
--   Data is stored locally and will not be lost
--   Supports multiple cutting-edge LLM models and providers
+# Features
+
+-   **Local Data Storage**  
+    :floppy_disk: Your data remains on your device, ensuring it never gets lost and maintains your privacy.
+
+-   **No-Deployment Installation Packages**  
+    :package: Get started quickly with downloadable installation packages. No complex setup necessary!
+
+-   **Support for Multiple LLM Providers**  
+    :gear: Seamlessly integrate with a variety of cutting-edge language models:
+
     -   OpenAI (ChatGPT)
     -   Azure OpenAI
     -   Claude
     -   Google Gemini Pro
-    -   Ollama (enabling easy access to locally deployed models such as llama2, Mistral, Mixtral, codellama, vicuna, yi, and solar)
+    -   Ollama (enable access to local models like llama2, Mistral, Mixtral, codellama, vicuna, yi, and solar)
     -   ChatGLM-6B
--   Supports Dall-E-3, real-time image generation
--   Enhanced prompting capability
--   Keyboard shortcuts for improved productivity
--   Markdown & Code Highlighting
--   Prompt Library, Message Quoting
--   Streaming reply
--   Ergonomic UI design & Night Mode
--   Suitable for team collaboration, supporting the sharing of OpenAI API resources within the team. View [tutorial](./team-sharing/README.md)
--   Providing installation packages, no deployment required
--   Cross-platform, available on Windows, Mac, Linux
--   Web version, available on any device with a browser
--   iOS & Android version, coming soon
--   Multilingual Support
+
+-   **Image Generation with Dall-E-3**  
+    :art: Create the images of your imagination with Dall-E-3.
+
+-   **Enhanced Prompting**  
+    :speech_balloon: Advanced prompting features to refine and focus your queries for better responses.
+
+-   **Keyboard Shortcuts**  
+    :keyboard: Stay productive with shortcuts that speed up your workflow.
+
+-   **Markdown, Latex & Code Highlighting**  
+    :scroll: Generate messages with the full power of Markdown and Latex formatting, coupled with syntax highlighting for various programming languages, enhancing readability and presentation.
+
+-   **Prompt Library & Message Quoting**  
+    :books: Save and organize prompts for reuse, and quote messages for context in discussions.
+
+-   **Streaming Reply**  
+    :arrow_forward: Provide rapid responses to your interactions with immediate, progressive replies.
+
+-   **Ergonomic UI & Dark Theme**  
+    :new_moon: A user-friendly interface with a night mode option for reduced eye strain during extended use.
+
+-   **Team Collaboration**  
+    :busts_in_silhouette: Collaborate with ease and share OpenAI API resources among your team. [Learn More](./team-sharing/README.md)
+
+-   **Cross-Platform Availability**  
+    :computer: Chatbox is ready for Windows, Mac, Linux users.
+
+-   **Access Anywhere with the Web Version**  
+    :globe_with_meridians: Use the web application on any device with a browser, anywhere.
+
+-   **iOS & Android**  
+    :phone: Use the mobile applications that will bring this power to your fingertips on the go.
+
+-   **Multilingual Support**  
+    :earth_americas: Catering to a global audience by offering support in multiple languages:
+
     -   English
-    -   简体中文
-    -   繁體中文
-    -   日本語
-    -   한국어
-    -   Français
-    -   Deutsch
-    -   Русский
--   More...
+    -   简体中文 (Simplified Chinese)
+    -   繁體中文 (Traditional Chinese)
+    -   日本語 (Japanese)
+    -   한국어 (Korean)
+    -   Français (French)
+    -   Deutsch (German)
+    -   Русский (Russian)
+
+-   **And More...**  
+    :sparkles: Constantly enhancing the experience with new features!
 
 ## FAQ
 
@@ -197,7 +232,7 @@ Any form of contribution is welcome, including but not limited to:
 -   Submitting translations
 -   Submitting any other forms of contribution
 
-## Build Instructions for Chatboxai (Mac, Windows, Linux)
+## Build Instructions for Chatbox (Mac, Windows, Linux)
 
 1. Clone the repository from Github using the following command:
 
@@ -231,10 +266,8 @@ npm start
 
 ## Contact
 
--   [Twitter](https://twitter.com/benn_huang)
--   [Email](mailto:tohuangbin@gmail.com)
--   [Blog](https://bennhuang.com)
+[Twitter](https://twitter.com/benn_huang) | [Email](mailto:tohuangbin@gmail.com) | [Blog](https://bennhuang.com)
 
 ## License
 
-[GNU General Public License v3.0](./LICENSE)
+[MIT](./LICENSE)
